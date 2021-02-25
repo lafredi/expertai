@@ -1,0 +1,581 @@
+[
+    {
+        "text": "Tourist visas or B-2 visas can change to student or F-1 visas with the right circumstances and paperwork filled out through the United States Citizenship and Immigration Services or the USCIS. Getting approval from the requested documentation does not come with any guarantee that the tourist can remain in the country and go to school.\n",
+        "data_expertai": {
+            "lemma": [
+                "tourist visa",
+                "or",
+                "B-2",
+                "visa",
+                "can",
+                "change",
+                "to",
+                "student",
+                "or",
+                "F-1",
+                "visa",
+                "with",
+                "the",
+                "right",
+                "circumstances",
+                "and",
+                "paperwork",
+                "fill out",
+                "through",
+                "the",
+                "United States Citizenship",
+                "and",
+                "immigration",
+                "service",
+                "or",
+                "the",
+                "USCIS",
+                ".",
+                "get",
+                "approval",
+                "from",
+                "the",
+                "requested",
+                "documentation",
+                "does",
+                "not",
+                "come with",
+                "any",
+                "guarantee",
+                "that",
+                "the",
+                "tourist",
+                "can",
+                "remain",
+                "in",
+                "the",
+                "country",
+                "and",
+                "go",
+                "to",
+                "school",
+                "."
+            ],
+            "mainlemma": [
+                {
+                    "lemma": "visa",
+                    "score": 19.5
+                },
+                {
+                    "lemma": "tourist visa",
+                    "score": 14.39
+                },
+                {
+                    "lemma": "tourist",
+                    "score": 8.1
+                },
+                {
+                    "lemma": "paperwork",
+                    "score": 7.8
+                },
+                {
+                    "lemma": "immigration",
+                    "score": 7.5
+                },
+                {
+                    "lemma": "United States Citizenship",
+                    "score": 6.4
+                },
+                {
+                    "lemma": "USCIS",
+                    "score": 6.0
+                }
+            ],
+            "classification": []
+        }
+    },
+    {
+        "text": "It seems unlikely that a single DUI would negatively impact your application for citizenship. Applicants for citizenship must show 5 years of good moral character, so if the DUI was in the last five years you might want to wait until more than five years have passed. You will also want to make sure that the case has been closed and all obligations associated with it satisfied.\n",
+        "data_expertai": {
+            "lemma": [
+                "It",
+                "seem",
+                "unlikely",
+                "that",
+                "a",
+                "single",
+                "DUI",
+                "would",
+                "negatively",
+                "impact",
+                "your",
+                "application",
+                "for",
+                "citizenship",
+                ".",
+                "applicant",
+                "for",
+                "citizenship",
+                "must",
+                "show",
+                "5",
+                "year",
+                "of",
+                "good",
+                "moral",
+                "character",
+                ",",
+                "so",
+                "if",
+                "the",
+                "DUI",
+                "be",
+                "in",
+                "the",
+                "last",
+                "five",
+                "year",
+                "you",
+                "might",
+                "want",
+                "to",
+                "wait",
+                "until",
+                "more",
+                "than",
+                "five",
+                "year",
+                "have",
+                "pass",
+                ".",
+                "You",
+                "will",
+                "also",
+                "want",
+                "to",
+                "make sure",
+                "that",
+                "the",
+                "case",
+                "has",
+                "been",
+                "close",
+                "and",
+                "all",
+                "obligation",
+                "associate",
+                "with",
+                "it",
+                "satisfy",
+                "."
+            ],
+            "mainlemma": [
+                {
+                    "lemma": "applicant",
+                    "score": 21.1
+                },
+                {
+                    "lemma": "DUI",
+                    "score": 20.5
+                },
+                {
+                    "lemma": "year",
+                    "score": 19.29
+                },
+                {
+                    "lemma": "citizenship",
+                    "score": 15.89
+                },
+                {
+                    "lemma": "case",
+                    "score": 7.0
+                },
+                {
+                    "lemma": "obligation",
+                    "score": 6.09
+                },
+                {
+                    "lemma": "application",
+                    "score": 4.09
+                }
+            ],
+            "classification": [
+                {
+                    "category": "Immigration",
+                    "id": "20000771",
+                    "frequency": 45.02
+                }
+            ]
+        }
+    },
+    {
+        "text": "Individuals who are pursuing permanent resident status may be deterred if they are convicted of a crime. While a misdemeanor conviction may not bar a person from still obtaining resident status, certain convictions may prevent a person from being approved for permanent residence status or possible cause the person to be subject to removal.\n",
+        "data_expertai": {
+            "lemma": [
+                "individual",
+                "individual",
+                "are",
+                "pursue",
+                "permanent",
+                "resident",
+                "status",
+                "may",
+                "be",
+                "deter",
+                "if",
+                "they",
+                "are",
+                "convict",
+                "of",
+                "a",
+                "crime",
+                ".",
+                "while",
+                "a",
+                "misdemeanor",
+                "conviction",
+                "may",
+                "not",
+                "bar",
+                "a",
+                "person",
+                "from",
+                "still",
+                "obtain",
+                "resident",
+                "status",
+                ",",
+                "certain",
+                "conviction",
+                "may",
+                "prevent",
+                "a",
+                "person",
+                "from",
+                "being",
+                "approve",
+                "for",
+                "permanent",
+                "residence",
+                "status",
+                "or",
+                "possible",
+                "cause",
+                "the",
+                "person",
+                "to",
+                "be",
+                "subject",
+                "to",
+                "removal",
+                "."
+            ],
+            "mainlemma": [
+                {
+                    "lemma": "conviction",
+                    "score": 20.2
+                },
+                {
+                    "lemma": "status",
+                    "score": 16.2
+                },
+                {
+                    "lemma": "misdemeanor",
+                    "score": 15.8
+                },
+                {
+                    "lemma": "person",
+                    "score": 15.1
+                },
+                {
+                    "lemma": "individual",
+                    "score": 12.0
+                },
+                {
+                    "lemma": "crime",
+                    "score": 11.19
+                },
+                {
+                    "lemma": "residence",
+                    "score": 3.9
+                }
+            ],
+            "classification": [
+                {
+                    "category": "Crime",
+                    "id": "20000082",
+                    "frequency": 43.66
+                }
+            ]
+        }
+    },
+    {
+        "text": "Documentation fraud with immigration processes normally involves the misrepresentation of factual details, identification information and authorization for both work and residence in the United States for someone immigrating from another country. The immigration documents fraud classifies any documents with these inaccuracies with intent as a crime.\n",
+        "data_expertai": {
+            "lemma": [
+                "documentation",
+                "fraud",
+                "with",
+                "immigration",
+                "process",
+                "normally",
+                "involve",
+                "the",
+                "misrepresentation",
+                "of",
+                "factual",
+                "detail",
+                ",",
+                "identification",
+                "information",
+                "and",
+                "authorization",
+                "for",
+                "both",
+                "work",
+                "and",
+                "residence",
+                "in",
+                "the",
+                "United States of America",
+                "for",
+                "someone",
+                "immigrate",
+                "from",
+                "another",
+                "country",
+                ".",
+                "The",
+                "immigration",
+                "document",
+                "fraud",
+                "classify",
+                "any",
+                "document",
+                "with",
+                "these",
+                "inaccuracy",
+                "with",
+                "intent",
+                "as",
+                "a",
+                "crime",
+                "."
+            ],
+            "mainlemma": [
+                {
+                    "lemma": "fraud",
+                    "score": 19.6
+                },
+                {
+                    "lemma": "misrepresentation",
+                    "score": 12.19
+                },
+                {
+                    "lemma": "document",
+                    "score": 7.3
+                },
+                {
+                    "lemma": "documentation",
+                    "score": 6.5
+                },
+                {
+                    "lemma": "immigration",
+                    "score": 6.3
+                },
+                {
+                    "lemma": "intent",
+                    "score": 6.19
+                },
+                {
+                    "lemma": "United States of America",
+                    "score": 6.19
+                }
+            ],
+            "classification": [
+                {
+                    "category": "Crime",
+                    "id": "20000082",
+                    "frequency": 17.64
+                },
+                {
+                    "category": "Fraud",
+                    "id": "20000097",
+                    "frequency": 33.63
+                },
+                {
+                    "category": "Immigration",
+                    "id": "20000771",
+                    "frequency": 29.42
+                }
+            ]
+        }
+    },
+    {
+        "text": "OK so if you have physically met your girlfriend, and she is living in Mexico, she can be sponsored by you for a fianc\u00c3\u00a9e visa and process her K visa at the US consulate in Mexico. A foreign national living in a country that is not native to his or her passport or birth, can still seek permission by selecting the consulate to process at in the country the foreign national is currently living in. Consider working with counsel to help you with your situation. Some of us charge a very affordable flat fee to handle the case from start to finish, and counsel in any state can represent you.",
+        "data_expertai": {
+            "lemma": [
+                "ok",
+                "so",
+                "if",
+                "you",
+                "have",
+                "physically",
+                "meet",
+                "your",
+                "girlfriend",
+                ",",
+                "and",
+                "girlfriend",
+                "is",
+                "live",
+                "in",
+                "Mexico",
+                ",",
+                "girlfriend",
+                "can",
+                "be",
+                "sponsor",
+                "by",
+                "you",
+                "for",
+                "a",
+                "fianc\u00c3",
+                "\u00a9",
+                "e",
+                "visa",
+                "and",
+                "process",
+                "her",
+                "k",
+                "visa",
+                "at",
+                "the",
+                "US",
+                "consulate",
+                "in",
+                "Mexico",
+                ".",
+                "A",
+                "foreign",
+                "national",
+                "live",
+                "in",
+                "a",
+                "country",
+                "country",
+                "be",
+                "not",
+                "native",
+                "to",
+                "his",
+                "or",
+                "her",
+                "passport",
+                "or",
+                "birth",
+                ",",
+                "can",
+                "still",
+                "seek",
+                "permission",
+                "by",
+                "select",
+                "the",
+                "consulate",
+                "to",
+                "process",
+                "at",
+                "in",
+                "the",
+                "country",
+                "the",
+                "foreign",
+                "national",
+                "is",
+                "currently",
+                "live in",
+                ".",
+                "consider",
+                "work with",
+                "counsel",
+                "to",
+                "help",
+                "you",
+                "with",
+                "your",
+                "situation",
+                ".",
+                "some",
+                "of",
+                "us",
+                "charge",
+                "a",
+                "very",
+                "affordable",
+                "flat",
+                "fee",
+                "to",
+                "handle",
+                "the",
+                "case",
+                "from",
+                "start",
+                "to",
+                "finish",
+                ",",
+                "and",
+                "counsel",
+                "in",
+                "any",
+                "state",
+                "can",
+                "represent",
+                "you",
+                "."
+            ],
+            "mainlemma": [
+                {
+                    "lemma": "national",
+                    "score": 13.1
+                },
+                {
+                    "lemma": "visa",
+                    "score": 12.5
+                },
+                {
+                    "lemma": "country",
+                    "score": 12.39
+                },
+                {
+                    "lemma": "Mexico",
+                    "score": 9.89
+                },
+                {
+                    "lemma": "counsel",
+                    "score": 9.19
+                },
+                {
+                    "lemma": "consulate",
+                    "score": 8.5
+                },
+                {
+                    "lemma": "passport",
+                    "score": 6.9
+                }
+            ],
+            "classification": [
+                {
+                    "category": "International relations",
+                    "id": "20000638",
+                    "frequency": 16.02
+                },
+                {
+                    "category": "Diplomacy",
+                    "id": "20000639",
+                    "frequency": 22.75
+                },
+                {
+                    "category": "Immigration",
+                    "id": "20000771",
+                    "frequency": 22.75
+                }
+            ]
+        }
+    }
+]
