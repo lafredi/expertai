@@ -2,8 +2,11 @@
 <a href="https://expert.ai"><img src="https://www.expert.ai/wp-content/uploads/2020/09/logo-new.png" align="right" /></a> 
 
 
-# Expert Lawyer powered by
+## Expert Lawyer powered by
 
+
+
+<br>
 
 ## Inspiration
 Legal writing is one of the most complicated and ambiguous languages for the common person to understand, getting legal help can be a daunting experience. :
