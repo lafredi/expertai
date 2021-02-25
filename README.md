@@ -1,4 +1,7 @@
-# Expert Lawyer
+<a href="https://expert.ai"><img src="https://www.expert.ai/wp-content/uploads/2020/09/logo-new.png" align="right" /></a> 
+
+
+# Expert Lawyer powered by
 
 
 ## Inspiration
