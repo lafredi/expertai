@@ -16,7 +16,7 @@ We have created a chatbot that answers all you related law question and he can u
 
 ## How we built it
 Thanks to Expert Ai we can build before receiving the user question the knowledge database, The knowledge database will unsure predisposed responses to avoid latency,
-The data received will be classified into different topics, we analyse every document using expert ai in order to extract various information by calling the methods **(Tokenization & Lemmatization, Key Elements, Classification)**, we save the the processed data. Then, with the user input we will match the entity with and return the best possible answer
+The data received will be classified into different topics, we analyse every document using expert ai in order to extract various information by calling the methods **(Tokenization & Lemmatization, Key Elements, Classification ...)**, we save the the processed data. Then, with the user input we will match the entity with and return the best possible answer
 
 <img src="https://i.postimg.cc/7Z6Q6JQ8/back-end.png" align="center" />
 
